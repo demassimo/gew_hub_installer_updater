@@ -9,3 +9,5 @@ curl -o minimize.png https://cdn.discordapp.com/attachments/749252806010994689/8
 
 echo Installing pip files
 pip install pynput
+
+exit
